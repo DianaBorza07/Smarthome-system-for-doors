@@ -6,3 +6,5 @@
 
 ## Project implementation
 ![smarthome](https://user-images.githubusercontent.com/94463656/156358968-6edd6a2e-a123-4f52-83ab-b5c284a09f6e.jpeg)
+
+#### Required tools for running the project : Arduino IDE
